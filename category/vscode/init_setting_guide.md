@@ -15,6 +15,7 @@
   > https://ux.stories.pe.kr/152
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - `내가 원하던 기능이다 -> 아,, 약간 다르네 :(`
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 <hr>
 
